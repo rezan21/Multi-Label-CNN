@@ -17,7 +17,7 @@ The basic CNN structure is as follows: Convolution -> Pooling -> Convolution -> 
 
 
 ### Dataset
-This repo only contains a limited number of images. Full dataset of 20,000 images of cats and dogs is available at: [Microsoft Cats & Dogs Dataset](microsoft.com/en-us/download/details.aspx?id=54765).
+This repo only contains a limited number of images. Full dataset of 20,000 images of cats and dogs is available at: [Microsoft Cats & Dogs Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
 
 
 ### Used Libraries:
